@@ -1,0 +1,1 @@
+RayCasting.exe -input scene4_12_point_light_circle_d_attenuation.txt -size 200 200 -output output4_12.tga -shadows 

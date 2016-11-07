@@ -1,0 +1,1 @@
+RayCasting.exe -input scene4_09_transparent_sphere_2.0.txt -size 200 200 -output output4_09.tga -shadows -bounces 5 -weight 0.01 -shade_back 

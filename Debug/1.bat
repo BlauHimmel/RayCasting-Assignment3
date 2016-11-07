@@ -1,0 +1,1 @@
+RayCasting.exe -input scene4_01_sphere_shadow.txt -size 200 200 -output output4_01.tga -shadows

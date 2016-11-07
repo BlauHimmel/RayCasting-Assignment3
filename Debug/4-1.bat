@@ -1,0 +1,1 @@
+RayCasting.exe -input scene4_04_reflective_sphere.txt -size 200 200 -output output4_04a.tga -shadows -bounces 0 -weight 0.01

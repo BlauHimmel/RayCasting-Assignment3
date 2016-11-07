@@ -1,0 +1,1 @@
+RayCasting.exe -input scene4_02_colored_shadows.txt -size 200 200 -output output4_02.tga -shadows

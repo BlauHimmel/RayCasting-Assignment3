@@ -1,0 +1,1 @@
+RayCasting.exe -input scene4_03_mirrored_floor.txt -size 200 200 -output output4_03.tga -shadows -bounces 1 -weight 0.01

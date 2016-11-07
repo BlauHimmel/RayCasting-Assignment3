@@ -1,0 +1,1 @@
+RayCasting.exe  -input scene4_14_faceted_gem.txt -size 200 200 -output output4_14c.tga -shadows -shade_back -bounces 2 -weight 0.01 

@@ -1,0 +1,1 @@
+RayCasting.exe -input scene4_06_transparent_bars.txt -size 200 200 -output output4_06e.tga -shadows -bounces 4 -weight 0.01 -shade_back

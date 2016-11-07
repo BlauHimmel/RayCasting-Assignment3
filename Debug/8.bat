@@ -1,0 +1,1 @@
+RayCasting.exe -input scene4_10_point_light_distance.txt -size 200 200 -output output4_10.tga -shadows
